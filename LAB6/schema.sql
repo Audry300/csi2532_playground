@@ -8,6 +8,7 @@ CREATE TABLE artists (
 );
 
 
+
 CREATE TABLE customers (
  id INTEGER,
  name VARCHAR(20),
